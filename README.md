@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I am Jai
+- 🔭 I’m currently working on MEAN/MERN stack
+- 🌱 I’m currently learning React and React Native
+- 👨‍💻 Ask me about Angular and Javascript, I might be able to help with most of your issues, else we will take down that error together 😁
+- 📫 How to reach me: t.jaisaichand4@gmail.com
+
+
+![jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaisaichand&count_private=true&show_icons=true&hide=contribs)
 
 <!--
 **jaisaichand/jaisaichand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
