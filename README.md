@@ -3,12 +3,18 @@
 
 - 🔭 I’m currently working on MEAN/MERN stack
 - 🌱 I’m currently learning React and React Native
-- 👨‍💻 Ask me about Angular and Javascript, I might be able to help with most of your issues, else we will take down that error together 😁
+- 👨‍💻 Ask me about Angular and Javascript frameworks, I might be able to help with most of your issues, else we will take down that error together 😁
 - 📫 How to reach me: t.jaisaichand4@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">I am a blogger as well, Visit if you are intrested in React, Angular, Js related frameworks:</h3>
 <p align="left">
-<a href="https://dev.to/jaisaichand" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jaisaichand" height="30" width="40" /></a>
+<a href="https://dev.to/jaisaichand" target="blank"> Dev.to</a> 
+
+</p>
+
+<p align="left">
+
+  <a href="https://medium.com/@jaisaichand" target="blank">Medium</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
