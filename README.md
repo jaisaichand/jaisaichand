@@ -1,4 +1,4 @@
-### Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> 
 <h3 >I am Jai, A passionate fullstack developer(MEAN/MERN) from India</h3>
 
 - 🔭 I’m currently working on MEAN/MERN stack
