@@ -1,9 +1,8 @@
 ### Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> 
-<h3 >I am Jai, A passionate fullstack developer(MEAN/MERN) from India</h3>
+<h3 >I am Jai, A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on MEAN/MERN stack.
-- 🌱 I’m currently learning React ,React Native and Node.
-- 👨‍💻 Ask me about Angular and Javascript frameworks, I might be able to help with most of your issues, else we will take down that error together 😁
+- 🔭 I’m currently working on java, spring boot, AI stuff.
+- 🌱 I’m currently learning AI.
 - 📫 How to reach me: t.jaisaichand4@gmail.com (or) <a href="https://www.linkedin.com/in/jai-sai-chand-405aa41b2" target="blank">LinkedIn</a> 
 - **Fleet of productive apps coming up into solvelyn-tech.**
 
