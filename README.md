@@ -5,19 +5,9 @@
 - 🌱 I’m currently learning React ,React Native and Node.
 - 👨‍💻 Ask me about Angular and Javascript frameworks, I might be able to help with most of your issues, else we will take down that error together 😁
 - 📫 How to reach me: t.jaisaichand4@gmail.com (or) <a href="https://www.linkedin.com/in/jai-sai-chand-405aa41b2" target="blank">LinkedIn</a> 
-- **Founder and CEO of Solvelyn Tech Pvt Ltd**
 - **Fleet of productive apps coming up into solvelyn-tech.**
 
-<h3 align="left">I am a blogger as well, Visit if you are intrested in React, Angular, Js related frameworks:</h3>
-<p align="left">
-<a href="https://dev.to/jaisaichand" target="blank"> Dev.to</a> 
-
-</p>
-
-<p align="left">
-
-  <a href="https://medium.com/@jaisaichand" target="blank">Medium</a>
-</p>
+<h3 align="left">Founder and CEO of Solvelyn Tech Pvt Ltd</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
